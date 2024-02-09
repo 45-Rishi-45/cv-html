@@ -1,5 +1,5 @@
 # cv-html
-<img width="200px" src="My pf.jpeg" alt="Profile Image"/>
+<img width="200px" src="./MY CV/ my pf.jpeg" alt="Profile Image"/>
 <h1><span>Rishith Poojary</span>'s Resume</h1>
 <p><i>I am 2nd Year B.tech Student 👨‍🎓 | Code Rider🚀 | Karate and Kickboxer 🥋| Aspiring Web Developer 👨‍💻</i></p>
 <hr/>
